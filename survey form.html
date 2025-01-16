@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+</head>
+<body>
+    <h1>Survey  Form</h1>
+    <p>Let us know how we can improve freeCodeCamp</p>
+    <form action="/action.php">
+        Name: <input type="text" placeholder="Enter your name"required>
+        <br>
+        <br>
+        Email: <input type="email" placeholder="Enter your Email"required>
+        <br>
+        <br>
+        <label for="age">Age:</label> 
+        <input type="number" placeholder="Age" id="age" min="18" required>
+        <br>
+        <br>
+        <label for="role"> Option best describes your current role? </label>
+        <select id="role">
+            <option value="student">Student</option>
+            <option value="developer">Developer</option>
+            <option value="employee">Employee</option>
+            <option value="designer">Designer</option>
+            <option value="other">Other</option>
+        </select>
+        <br>
+        <br>
+        How likely is that you would recommend freeCodeCamp to a friend? 
+        <br>
+        <input type="radio" value="Definitely" name="role"> Definitely
+        <br>
+        <input type="radio" value="Maybe" name="role"> Maybe
+        <br>
+        <input type="radio" value="Not sure" name="role"> Not sure
+        <br>
+        <br>
+        <label for="fcc">What do you like most in FCC:</label>
+        <select id="fcc">
+            <option value="fcc">Select an option</option>
+            <option value="fcc">Select an option 2</option>
+            <option value="fcc">Select an option 3</option>
+        </select>
+        <br>
+        <br>
+        Things that should be improved in the future (Check all that apply):
+        <br>
+        <input type="checkbox" value="frontend" name="future"> Front-end Projects
+        <br>
+        <input type="checkbox" value="backend" name="future"> Black-end Projects
+        <br>
+        <input type="checkbox" value="data Visualization" name="future"> Data Visualization
+        <br>
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
