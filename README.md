@@ -21,11 +21,6 @@ A responsive form designed to collect user feedback using semantic HTML5 element
 
 A modern and structured personal resume webpage displaying professional experience, education, and skills. Styled with CSS for clean layout and typography.
 
-### 📸 Screenshots
-
-![Resume Page 1](https://github.com/user-attachments/assets/ade5ac2d-fbf0-499c-8384-48eaa2f0d1b2)  
- 
-![Resume Page 3](https://github.com/user-attachments/assets/c49bf756-c496-4ee1-b298-897232b64de0)
 
 ### 🔧 Tech Stack
 - HTML5
