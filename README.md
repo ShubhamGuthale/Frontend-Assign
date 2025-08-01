@@ -24,7 +24,7 @@ A modern and structured personal resume webpage displaying professional experien
 ### 📸 Screenshots
 
 ![Resume Page 1](https://github.com/user-attachments/assets/ade5ac2d-fbf0-499c-8384-48eaa2f0d1b2)  
-![Resume Page 2](https://github.com/user-attachments/assets/74117989-0c85-4718-8e08-4825e1192300)  
+ 
 ![Resume Page 3](https://github.com/user-attachments/assets/c49bf756-c496-4ee1-b298-897232b64de0)
 
 ### 🔧 Tech Stack
